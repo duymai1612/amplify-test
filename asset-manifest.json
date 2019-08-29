@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/amplify-test/static/css/main.2cce8147.chunk.css",
+    "main.js": "/amplify-test/static/js/main.99d67bb4.chunk.js",
+    "main.js.map": "/amplify-test/static/js/main.99d67bb4.chunk.js.map",
+    "runtime~main.js": "/amplify-test/static/js/runtime~main.4b75930c.js",
+    "runtime~main.js.map": "/amplify-test/static/js/runtime~main.4b75930c.js.map",
+    "static/css/2.eee0f4a3.chunk.css": "/amplify-test/static/css/2.eee0f4a3.chunk.css",
+    "static/js/2.e67b1449.chunk.js": "/amplify-test/static/js/2.e67b1449.chunk.js",
+    "static/js/2.e67b1449.chunk.js.map": "/amplify-test/static/js/2.e67b1449.chunk.js.map",
+    "index.html": "/amplify-test/index.html",
+    "precache-manifest.33e11f12ec5afd4ccfb8783c9b1ab2bb.js": "/amplify-test/precache-manifest.33e11f12ec5afd4ccfb8783c9b1ab2bb.js",
+    "service-worker.js": "/amplify-test/service-worker.js",
+    "static/css/2.eee0f4a3.chunk.css.map": "/amplify-test/static/css/2.eee0f4a3.chunk.css.map",
+    "static/css/main.2cce8147.chunk.css.map": "/amplify-test/static/css/main.2cce8147.chunk.css.map"
+  }
+}
