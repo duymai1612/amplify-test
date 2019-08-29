@@ -1,11 +1,12 @@
 {
   "name": "amplify-test",
-  "homepage" : "https://duymai1612.github.io/amplify-test",
+  "homepage": "https://duymai1612.github.io/amplify-test",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "aws-amplify": "^1.1.36",
     "aws-amplify-react": "^2.3.12",
+    "gh-pages": "^2.1.1",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-scripts": "3.1.1"
@@ -15,6 +16,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
+    "predeploy": "yarn build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
